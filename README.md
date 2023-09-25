@@ -8,6 +8,11 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
 <p align="left"> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
@@ -57,4 +62,12 @@
   </a> 
 </p>
 
+</td>
+<td valign="top" width="50%">
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moo3030&show_icons=true&locale=en&layout=compact" alt="moo3030" /></p>
+
+</td>
+</tr>
+</table>
+
