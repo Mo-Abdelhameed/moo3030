@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Abdelhamid</h1>
 <h3 align="center">A passionate (Data scientist / ML developer)</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moo3030" alt="moo3030" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohamed-abdelhamid-2835961ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-abdelhamid-2835961ba" height="30" width="40" /></a>
